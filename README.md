@@ -21,9 +21,7 @@ go to root directory of project
 D:\learn\react\puck\puck-form-widget>
 
 ```
-
-npm install
-e.g. D:\learn\react\puck\puck-form-widget>
+e.g. D:\learn\react\puck\puck-form-widget>npm install
 
 ```
 
@@ -32,7 +30,6 @@ e.g. D:\learn\react\puck\puck-form-widget>
 Start the server
 
 ```
-npm run dev
 e.g. D:\learn\react\puck\puck-form-widget>npm run dev
 ```
 
