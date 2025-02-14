@@ -2,6 +2,8 @@
 
 The `next` recipe showcases one of the most powerful ways to implement Puck using to provide an authoring tool for any route in your Next app.
 
+New receipe added for custom puck form widget : which can helps devlopers to make dynamic form using puck
+
 ## Demonstrates
 
 - Next.js App Router implementation
@@ -11,16 +13,18 @@ The `next` recipe showcases one of the most powerful ways to implement Puck usin
 
 ## Usage
 
-Run the generator and enter `next` when prompted
+Clone repository
+https://github.com/rahoul777/puck-form-widget
 
 ```
-npx create-puck-app my-app
+go to root directory of project
+D:\learn\react\puck\puck-form-widget>npm run dev
 ```
 
 Start the server
 
 ```
-yarn dev
+npm run dev
 ```
 
 Navigate to the homepage at https://localhost:3000. To edit the homepage, access the Puck editor at https://localhost:3000/edit.
@@ -40,3 +44,7 @@ By default, this recipe will generate static pages by setting `dynamic` to [`for
 ## License
 
 MIT © [Measured Co.](https://github.com/measuredco)
+
+# Disclaimer
+
+This is sample repository used for learning purpose to get more hands on puck, all rights reserved with puck https://github.com/measuredco
