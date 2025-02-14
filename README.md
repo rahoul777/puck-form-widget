@@ -19,17 +19,11 @@ https://github.com/rahoul777/puck-form-widget
 ```
 go to root directory of project
 D:\learn\react\puck\puck-form-widget>
-
-```
 e.g. D:\learn\react\puck\puck-form-widget>npm install
-
 ```
 
 ```
-
 Start the server
-
-```
 e.g. D:\learn\react\puck\puck-form-widget>npm run dev
 ```
 
