@@ -126,13 +126,22 @@ export const config: Config<Props> = {
                   </select>
                 )}
 
-                {field.type !== "radio" && field.type !== "select" && (
-                  <input
-                    type={field.type}
+                {field.type === "textarea" && (
+                  <textarea
                     placeholder={field.placeholder}
                     style={{ width: "100%", padding: 8, marginTop: 8 }}
                   />
                 )}
+
+                {field.type !== "radio" &&
+                  field.type !== "select" &&
+                  field.type !== "textarea" && (
+                    <input
+                      type={field.type}
+                      placeholder={field.placeholder}
+                      style={{ width: "100%", padding: 8, marginTop: 8 }}
+                    />
+                  )}
               </div>
             ))}
             {/* Submit button */}
