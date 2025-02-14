@@ -18,13 +18,22 @@ https://github.com/rahoul777/puck-form-widget
 
 ```
 go to root directory of project
-D:\learn\react\puck\puck-form-widget>npm run dev
+D:\learn\react\puck\puck-form-widget>
+
+```
+
+npm install
+e.g. D:\learn\react\puck\puck-form-widget>
+
+```
+
 ```
 
 Start the server
 
 ```
 npm run dev
+e.g. D:\learn\react\puck\puck-form-widget>npm run dev
 ```
 
 Navigate to the homepage at https://localhost:3000. To edit the homepage, access the Puck editor at https://localhost:3000/edit.
